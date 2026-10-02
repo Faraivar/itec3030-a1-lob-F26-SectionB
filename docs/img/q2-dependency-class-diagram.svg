@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="770" viewBox="0 0 860 770">
+<rect width="860" height="770" fill="#ffffff"/>
+<text x="430.0" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="bold" fill="#000">Dependency Class Diagram — syntactic dependencies</text>
+<line x1="165" y1="70" x2="165" y2="180" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="159.5,169.0 165,180 170.5,169.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="170" y="134" width="55.10769230769231" height="17" fill="#ffffff" stroke="none"/><text x="173" y="145" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«create»</text>
+<line x1="165" y1="210" x2="165" y2="340" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="159.5,329.0 165,340 170.5,329.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="170" y="294" width="55.10769230769231" height="17" fill="#ffffff" stroke="none"/><text x="173" y="305" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«create»</text>
+<line x1="250" y1="209" x2="560" y2="272" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="548.1250001380627,275.1991214854999 560,272 550.3157028944377,264.4194730017501" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="378.5846153846154" y="217" width="42.830769230769235" height="17" fill="#ffffff" stroke="none"/><text x="400" y="228" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«call»</text>
+<line x1="250" y1="369" x2="560" y2="302" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="550.4101331898001,309.6996398982437 560,302 548.0863679952851,298.9478904907863" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="375.5153846153846" y="339" width="48.969230769230776" height="17" fill="#ffffff" stroke="none"/><text x="400" y="350" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«refer»</text>
+<line x1="640" y1="420" x2="640" y2="298" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="645.5,309.0 640,298 634.5,309.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="645" y="369" width="61.24615384615385" height="17" fill="#ffffff" stroke="none"/><text x="648" y="380" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«realize»</text>
+<line x1="565.0" y1="580" x2="565.0" y2="450" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="570.5,461.0 565.0,450 559.5,461.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="504.89230769230767" y="534" width="55.10769230769231" height="17" fill="#ffffff" stroke="none"/><text x="557.0" y="545" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«derive»</text>
+<line x1="725.0" y1="580" x2="725.0" y2="450" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="730.5,461.0 725.0,450 719.5,461.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="730.0" y="534" width="55.10769230769231" height="17" fill="#ffffff" stroke="none"/><text x="733.0" y="545" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«derive»</text>
+<polyline points="80,62 35,62 35,700 565.0,700 565.0,610" fill="none" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="570.5,621.0 565.0,610 559.5,621.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="511.03076923076924" y="683" width="48.969230769230776" height="17" fill="#ffffff" stroke="none"/><text x="557.0" y="694" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«refer»</text>
+<polyline points="80,80 18,80 18,722 725.0,722 725.0,610" fill="none" stroke="#000000" stroke-width="1.4" stroke-dasharray="6 4"/>
+<polyline points="730.5,621.0 725.0,610 719.5,621.0" fill="none" stroke="#000000" stroke-width="1.4"/>
+<rect x="730.0" y="705" width="48.969230769230776" height="17" fill="#ffffff" stroke="none"/><text x="733.0" y="716" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#000">«refer»</text>
+<rect x="80" y="40" width="170" height="30" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="165.0" y="60" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" fill="#000">Orderbook</text>
+<rect x="80" y="180" width="170" height="30" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="165.0" y="200" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" fill="#000">HalfBook</text>
+<rect x="224" y="167.0" width="40" height="26" fill="#ffffff" stroke="#000000" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="244.0" y="185.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-style="italic" fill="#000">T</text>
+<rect x="80" y="340" width="170" height="30" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="165.0" y="360" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" fill="#000">OrderOutcome</text>
+<rect x="560" y="250" width="170" height="48" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="645.0" y="263" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" fill="#000">&#171;interface&#187;</text>
+<text x="645.0" y="288" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" fill="#000">IOrder</text>
+<rect x="540" y="420" width="200" height="30" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="640.0" y="440" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" font-style="italic" fill="#000">Order</text>
+<rect x="500" y="580" width="130" height="30" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="565.0" y="600" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" fill="#000">Ask</text>
+<rect x="660" y="580" width="130" height="30" fill="#ffffff" stroke="#000000" stroke-width="1.4"/>
+<text x="725.0" y="600" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.5" font-weight="bold" fill="#000">Bid</text>
+</svg>
